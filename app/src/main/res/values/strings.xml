@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+    <string name="question_to_answer">Question to answer:</string>
+    <string name="b">B</string>
+    <string name="d">D</string>
+    <string name="_0_0">0/0</string>
+    <string name="score">Score:</string>
+    <string name="c">C</string>
+    <string name="a">A</string>
+    <string name="your_score">Your score:</string>
+    <string name="highest_score">Highest score:</string>
+    <string name="todo">TODO</string>
+</resources>
